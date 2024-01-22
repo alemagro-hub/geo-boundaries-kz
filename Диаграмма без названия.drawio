@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T10:08:40.189Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wbRkSlRNTKoGwYMVj1SD" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-22T10:10:11.859Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GAVUuEPzpzqBz1XLTM-D" version="22.1.21" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2486" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5436" dy="2936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -637,7 +637,7 @@
         <mxCell id="_ebj1l7xpi0XipO9uDGY-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_ebj1l7xpi0XipO9uDGY-17" target="_ebj1l7xpi0XipO9uDGY-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ebj1l7xpi0XipO9uDGY-17" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Mapping ERP&lt;br&gt;Record&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_ebj1l7xpi0XipO9uDGY-17" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Mapping ERP&lt;br&gt;Record&lt;/b&gt;&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="980" y="3400" width="250" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="_ebj1l7xpi0XipO9uDGY-21" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 16px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Client data:&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Параметры:&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ИИН - БИН&amp;nbsp; -&amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Main Key&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Наименование&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Адрес&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Деятельность&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Кадастровый номер&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Бизнес регион&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Контактное лицо - не верифицированный&lt;br&gt;&lt;/span&gt;Категория клиента - (А, B, C, D)&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -646,7 +646,7 @@
         <mxCell id="_ebj1l7xpi0XipO9uDGY-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_ebj1l7xpi0XipO9uDGY-23" target="_ebj1l7xpi0XipO9uDGY-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ebj1l7xpi0XipO9uDGY-23" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Mapping Outside&lt;br&gt;Data&amp;nbsp;&lt;br&gt;OIQARAGAI&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_ebj1l7xpi0XipO9uDGY-23" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Mapping Outside&lt;br&gt;Data&amp;nbsp;&lt;br&gt;OIQARAGAI&lt;/b&gt;&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="3650" width="270" height="130" as="geometry" />
         </mxCell>
         <mxCell id="_ebj1l7xpi0XipO9uDGY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.989;entryY=0.511;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_ebj1l7xpi0XipO9uDGY-21" target="_ebj1l7xpi0XipO9uDGY-23">
@@ -672,7 +672,7 @@
         <mxCell id="_ebj1l7xpi0XipO9uDGY-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_ebj1l7xpi0XipO9uDGY-28" target="_ebj1l7xpi0XipO9uDGY-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ebj1l7xpi0XipO9uDGY-28" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Mapping Outside&lt;br&gt;Data&amp;nbsp;&lt;br&gt;GOSAGRO&lt;br&gt;(Subcides)&lt;br&gt;&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_ebj1l7xpi0XipO9uDGY-28" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Mapping Outside&lt;br&gt;Data&amp;nbsp;&lt;br&gt;GOSAGRO&lt;br&gt;(Subcides)&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="555" y="4027" width="270" height="130" as="geometry" />
         </mxCell>
         <mxCell id="_ebj1l7xpi0XipO9uDGY-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=270;entryDy=75;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_ebj1l7xpi0XipO9uDGY-21" target="_ebj1l7xpi0XipO9uDGY-28">
@@ -684,7 +684,7 @@
         <mxCell id="_ebj1l7xpi0XipO9uDGY-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_ebj1l7xpi0XipO9uDGY-33" target="_ebj1l7xpi0XipO9uDGY-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ebj1l7xpi0XipO9uDGY-33" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Mapping Outside&lt;br&gt;Data&amp;nbsp;&lt;br&gt;AISGZK (MAPS POLYGON)&lt;br&gt;&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_ebj1l7xpi0XipO9uDGY-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Mapping Outside&lt;br&gt;Data&amp;nbsp;&lt;br&gt;AISGZK (MAPS POLYGON)&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1400" y="3650" width="270" height="130" as="geometry" />
         </mxCell>
         <mxCell id="_ebj1l7xpi0XipO9uDGY-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.382;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_ebj1l7xpi0XipO9uDGY-21" target="_ebj1l7xpi0XipO9uDGY-33">
@@ -717,7 +717,7 @@
         <mxCell id="_ebj1l7xpi0XipO9uDGY-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_ebj1l7xpi0XipO9uDGY-40" target="_ebj1l7xpi0XipO9uDGY-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ebj1l7xpi0XipO9uDGY-40" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;KOMPRA&lt;br&gt;&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_ebj1l7xpi0XipO9uDGY-40" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;KOMPRA&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1400" y="4027" width="270" height="130" as="geometry" />
         </mxCell>
         <mxCell id="_ebj1l7xpi0XipO9uDGY-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.562;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_ebj1l7xpi0XipO9uDGY-21" target="_ebj1l7xpi0XipO9uDGY-40">
